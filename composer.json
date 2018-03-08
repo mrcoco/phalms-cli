@@ -1,5 +1,5 @@
 {
-  "name": "mrcoco/phlams-cli",
+  "name": "mrcoco/phalms-cli",
   "version": "0.1.4",
   "title": "Phalms CLI",
   "description": "Phalms CLI - open source PHP CLI. Using Symfony component. Can be easily to generate CRUD with modular .",
